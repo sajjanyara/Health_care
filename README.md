@@ -6,7 +6,10 @@ This project integrates and analyzes healthcare data to create a comprehensive d
 
 ## ER Diagram
 
-![ER Diagram](Database ER diagram.jpeg)  
+
+![ER Diagram](database_er_diagram.jpeg)  
+
+
 *Figure 1: Entity-Relationship Diagram of the Healthcare Data Integration Project*
 
 The ER diagram illustrates the relationships between the various datasets used in this project. Key entities include `Patients`, `Conditions`, `Medications`, `Symptoms`, `Encounters`, and `Patient_Gender`. The diagram highlights how these entities are linked through common identifiers such as `patient_id` and `encounter_id`, providing a clear view of the data structure and integration points.
